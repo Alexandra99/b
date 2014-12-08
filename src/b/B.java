@@ -19,6 +19,7 @@ public class B {
         // TODO code application logic here
         
         System.out.print("hi");
+        System.out.print("hola");
     }
     
 }
